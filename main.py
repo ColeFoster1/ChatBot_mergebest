@@ -1,8 +1,8 @@
 import mccurdy
 import austin
 import gavin
-#import trinity
 import isaac
+import cole
 
 from baseChat import CHAT_OBJECTS
 
