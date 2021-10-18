@@ -26,7 +26,7 @@ class McCurdyChat(BaseChat):
         return "My favorite {} is {}".format(favoriteIndex, myFavorites[favoriteIndex])
 
 
-    
+
     words = text.split(" ")
     for word in words:
       if word.lower() in greetingOptions:
