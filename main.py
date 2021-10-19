@@ -2,7 +2,8 @@ import mccurdy
 import austin
 import gavin
 import leilosh
-
+import isaac
+import cole
 
 from baseChat import CHAT_OBJECTS
 
